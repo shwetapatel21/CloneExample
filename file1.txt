@@ -5,3 +5,4 @@ VS Code changes 3rd line
 =======
 This is 4th line
 >>>>>>> 5141746339f015fa02b81ae46f8c721f435b7097
+This is 6th line
