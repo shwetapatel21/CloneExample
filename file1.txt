@@ -1,2 +1,3 @@
 This is clone filr and trying to craete new from scratch.
 This is 2nd line
+VS Code changes 3rd line
