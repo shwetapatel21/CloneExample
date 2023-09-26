@@ -1,8 +1,8 @@
 I want to see the merge process.
 7-8 line deleted
 this is 3rd line
-12
-45
-48
-48
-50
+12 Twelve
+45 Fourtyfive
+48 Fortyeight
+48 Fourty eight
+50 fifty
