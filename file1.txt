@@ -1,12 +1,2 @@
-This is clone filr and trying to craete new from scratch.
-This is 2nd line
-VS Code changes 3rd line
-This is 4th line
-VS Code changes 5th line
-This is 6th line
->>>>>>> 799209b3f2ed7c242e81c7e7564f0091ce3805e8
-<<<<<<< HEAD
-VS Code 8th line
-=======
-VS Code chnages 7th line
->>>>>>> feature_1
+I want to see the merge process.
+7-8 line deleted
