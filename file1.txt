@@ -1,13 +1,11 @@
 I want to see the merge process.
 7-8 line deleted
 this is 3rd line
-<<<<<<< HEAD
 12 Twelve
 45 Fourtyfive
 48 Fortyeight
 48 Fourty eight
 50 fifty
-=======
 12
 45
 48
@@ -15,4 +13,4 @@ this is 3rd line
 50
 fiftyone
 fiftytwo
->>>>>>> main
+MY NAE IS SHWETAGYUS
